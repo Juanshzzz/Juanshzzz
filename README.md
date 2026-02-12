@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Eu sou Juan, estudante de Desenvolvimento de Sistemas. Meu aprendizado é focado na prática. Gosto de criar projetos pequenos e funcionais para consolidar o conhecimento, pois sou o tipo de desenvolvedor que precisa entender como o código funciona de verdade, e não só na teoria. Meu objetivo é sempre melhorar o que faço hoje e evoluir minhas habilidades a cada novo desafio.</p>
+<p align="left">Eu sou Juan, estudante de Análise e Desenvolvimento de Sistemas. Meu aprendizado é focado na prática. Gosto de criar projetos pequenos e funcionais para consolidar o conhecimento, pois sou o tipo de desenvolvedor que precisa entender como o código funciona de verdade, e não só na teoria. Meu objetivo é sempre melhorar o que faço hoje e evoluir minhas habilidades a cada novo desafio.</p>
 
 ###
 
