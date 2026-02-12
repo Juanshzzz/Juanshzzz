@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Estudando React.js<br>💾 Desenvolvendo desde 2023<br>🎓 Técnico em Desenvolvimento de Sistemas<br>📂 Trabalhando no desenvolvimento do site de uma cafeteria</p>
+<p align="left">💾 Desenvolvendo desde 2023<br>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas<br>📂 Trabalhando em projetos com ScriptCase</p>
 
 ###
 
